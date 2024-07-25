@@ -10,8 +10,8 @@ They are expecting the following:
 * An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
 
 ## Dataset
-The data provided by the client consists of 3 different datasets, namely Content.csv, Reactions.csv, and ReactionTypes.csv. After getting the data, the data just needs to be cleaned and prepared for analysis.
-#### Feature
+The data provided by the client consists of 3 different datasets, namely Content.csv, Reactions.csv, and ReactionTypes.csv. After getting the data, the data just needs to be cleaned and prepared, then the three data are combined into one new CSV dataset file by taking out the columns that are important for data analysis.
+#### Features of the dataset that has been combined 
 * `Content ID`: Contains content id
 * `Reaction Type`: The type of reaction given
 * `Datetime`: date month and year
