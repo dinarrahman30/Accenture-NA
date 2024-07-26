@@ -57,3 +57,5 @@ Travel and Science are two popular content categories, with people showing inter
 Cooking is a common theme that is included in the top 5 categories with “Healthy Eating”. This indicates that the audience is within the user base. You can use this insight to create campaigns and work with chefs to share healthy food recipes to boost user engagement.
 ##### Next Movement
 These ad-hoc analyses provide deep insights, but it's time to take them into large-scale production to understand your business in real-time. We can show you how to do this.
+
+###### from Forage.com
